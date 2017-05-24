@@ -1,0 +1,13 @@
+Package: DFCompare
+Type: Package
+Title: Compare Two Dataframes And Return Adds, Changes, and Deletes
+Version: 1.0.0
+Author: Shawn Waldroff [aut,cre]
+Maintainer: Shawn Waldroff <swaldroff@gmail.com>
+Description: Compares two dataframes with a common key
+            and returns the delta records. The package will return
+            three dataframes that contain the added, changed,
+            and deleted records.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
