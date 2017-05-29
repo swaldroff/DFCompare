@@ -11,3 +11,5 @@ Description: Compares two dataframes with a common key
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/swaldroff/DFCompare
+BugReports: https://github.com/swaldroff/DFCompare/issues
