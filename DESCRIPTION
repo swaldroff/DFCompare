@@ -1,6 +1,6 @@
-Package: DFCompare
+Package: dfCompare
 Type: Package
-Title: Compare Two Dataframes And Return Adds, Changes, and Deletes
+Title: Compare Two Dataframes And Return Adds, Changes, And Deletes
 Version: 1.0.0
 Author: Shawn Waldroff [aut,cre]
 Maintainer: Shawn Waldroff <swaldroff@gmail.com>
